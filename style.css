@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;  
+    font-family: 'Times New Roman', Times, serif;
+    
+    text-shadow: 2px 2px white;
+    text-align: center;
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+  
+    }
